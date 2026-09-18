@@ -1,2 +1,4 @@
 # Capstone-Project-Duke-University
-Final capstone project for completion of the online specialization | Java Programming and Software Engineering Fundamentals Specialization | Duke University
+- Final capstone project for completion of the online specialization | Java Programming and Software Engineering Fundamentals Specialization | Duke University
+- Project was about building a movie Recommendation System.
+- This project was made using BlueJ IDE. UML diagram of class design can be seen in the IDE itself.
