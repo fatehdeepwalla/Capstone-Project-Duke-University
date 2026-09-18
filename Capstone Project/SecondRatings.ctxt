@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SecondRatings
+comment1.params=
+comment1.target=SecondRatings()
+comment2.params=movieFile\ ratingFile
+comment2.target=SecondRatings(java.lang.String,\ java.lang.String)
+comment3.params=movieID
+comment3.target=java.lang.String\ getTitle(java.lang.String)
+comment4.params=movieTitle
+comment4.target=java.lang.String\ getID(java.lang.String)
+comment5.params=minRaters
+comment5.target=java.util.ArrayList\ getAverageRatingALL(int)
+comment6.params=movieID\ minRaters
+comment6.target=double\ getAverageByID(java.lang.String,\ int)
+comment7.params=movieTitle\ minRaters
+comment7.target=double\ getAverageByTitle(java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ printAverageRating()
+numComments=9

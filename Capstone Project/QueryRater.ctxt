@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QueryRater
+comment1.params=RaterID
+comment1.target=void\ numberOfRatingByUser(java.lang.String)
+comment2.params=
+comment2.target=void\ maximumRatingsByRater()
+comment3.params=MovieID
+comment3.target=void\ numberOfRatingForMovie(java.lang.String)
+comment4.params=
+comment4.target=void\ numberOfDifferentMovies()
+numComments=5
