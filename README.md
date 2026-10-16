@@ -41,5 +41,3 @@
   
   These datasets allow the project to load movie information and rating histories for analysis and recommendation calculations.
 
----
-
